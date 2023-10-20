@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1697808111659
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1697808150060
+name: Demo model
+run_id: 3b1f4181e58844f98b3142bce04ddda2
+run_link: ''
+source: file:///F:/GUVI_DATA_SCIENCE/Project/Machine_Learning_Essentials/ML_Flow/mlruns/0/3b1f4181e58844f98b3142bce04ddda2/artifacts/Model
+status: READY
+status_message: null
+user_id: null
+version: 1
